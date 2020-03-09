@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ภาพมุมสูงเพิ่ม(2020)</folder>
+	<filename>DJI_0168.JPG</filename>
+	<path>/Volumes/Macintosh HD/SeniorProject/CarDetectProject/Data/ภาพรถมุมสูง/ภาพมุมสูงเพิ่ม(2020)/DJI_0168.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2688</xmin>
+			<ymin>625</ymin>
+			<xmax>2847</xmax>
+			<ymax>899</ymax>
+		</bndbox>
+	</object>
+</annotation>
